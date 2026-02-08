@@ -18,6 +18,12 @@ The project includes:
 
 ---
 
+## Deployed Link 
+
+- https://papaya-tartufo-5728aa.netlify.app/
+
+---
+
 ## Features
 
 ### Tree View Component
